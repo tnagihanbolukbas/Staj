@@ -1,0 +1,5 @@
+com\nagihan\bolukbas\staj\repository\MovieRepository.class
+com\nagihan\bolukbas\staj\entity\Movie.class
+com\nagihan\bolukbas\staj\config\DataConfig.class
+com\nagihan\bolukbas\staj\config\SwaggerConfig.class
+com\nagihan\bolukbas\staj\StajApplication.class
